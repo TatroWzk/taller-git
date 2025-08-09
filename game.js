@@ -26,7 +26,7 @@ function jugar() {
                 if (diferencia <= 10) {
                     console.log("Vas biiienn, caliente.");
                 } else {
-                    console.log("NaH, pero re lejos, frioooo.");
+                    console.log("Naaaaaa, pero re lejos, frioooo.");
                 }
                 preguntarNumero();
             }
@@ -41,7 +41,7 @@ function jugar() {
                 console.log("BUENAAAAAAAAAAAA");
                 rl.close();
             } else {
-                console.log("Tas pdj?");
+                console.log("Estas pdj?");
                 jugarDeNuevo();
             }
         });
